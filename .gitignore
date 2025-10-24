@@ -1,0 +1,4 @@
+*.yml
+*.xml
+.idea/
+*txt
